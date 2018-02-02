@@ -26,6 +26,24 @@
       "type": "package",
       "url": "https://raw.githubusercontent.com/erikng/installapplicationsdemo/master/installapplications/pkgs/DEPNotify-1.0.3.pkg",
       "version": "1.0.3"
+    },
+    {
+      "file": "/Library/Application Support/installapplications/facter-2.4.6.1.pkg", 
+      "hash": "ed525d79b9ab860300faadd85f45170f61575829644e7cae9b2ebc14a24ed91e", 
+      "name": "facter-2.4.6.1.pkg", 
+      "packageid": "com.puppetlabs.facter", 
+      "type": "package", 
+      "url": "https://raw.githubusercontent.com/macjustice/installapplicationsdemo/master/installapplications/pkgs/facter-2.4.6.1.pkg", 
+      "version": "2.4.6.1"
+    },
+    {
+      "file": "/Library/Application Support/installapplications/puppet-3.8.7.1.pkg", 
+      "hash": "3fb68b4dab3b7390bb13114536a4d728dc04f2b54595e3e9664f8dfb5d1333f8", 
+      "name": "puppet-3.8.7.1.pkg", 
+      "packageid": "com.puppetlabs.puppet", 
+      "type": "package", 
+      "url": "https://raw.githubusercontent.com/macjustice/installapplicationsdemo/master/installapplications/pkgs/puppet-3.8.7.1.pkg", 
+      "version": "3.8.7.1"
     }
   ],
   "userland": [
