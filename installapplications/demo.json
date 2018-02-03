@@ -97,7 +97,7 @@
       "hash": "038989025527844e8992bb082a204551e3acb4f191557d06d5fe95df909b3085",
       "name": "Make Console User Admin",
       "type": "rootscript",
-      "url": "https://raw.githubusercontent.com/macjustice/installapplicationsdemo/master/installapplications/scripts/root/make_user_admin.sh",
+      "url": "https://raw.githubusercontent.com/macjustice/installapplicationsdemo/master/installapplications/scripts/root/make_user_admin.sh"
     },
     {
       "file": "/Library/Application Support/installapplications/depnotify_end.py",
